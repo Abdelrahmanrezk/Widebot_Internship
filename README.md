@@ -27,8 +27,8 @@ Given the training and validation datasets, http://bit.ly/widebot-new-binclf-dat
 
 
 <p float="left">
-  <img src="images/loss.png" width="500" />
-  <img src="images/accu.png" width="500" />
+  <img src="images/loss.png" width="300" />
+  <img src="images/accu.png" width="300" />
 </p>
 
 
